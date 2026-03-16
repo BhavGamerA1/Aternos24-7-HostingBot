@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "1OnePiece.aternos.me:57502",
+    "ip": "1OnePiece.aternos.me",
     "port": 57502,
     "version": "",
     "try-creative": false
